@@ -168,52 +168,6 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 
 ---
 
-<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-
-## 💼 Experience
-
-### **Developer Automation Engineer (Intern)** · Deutsche Börse Group
-📍 Eschborn, Germany · `05/2025 – Present`
-
-Building digital automation and AI solutions for financial operations in one of the world's leading market infrastructure providers.
-
-- Designed Python-based automation reducing manual data-processing effort by **70%**
-- Developed an autonomous AI agent (SharePoint + Jira, REST/JSON) cutting documentation effort by **80%**
-- Built cloud data pipelines integrating multiple financial data sources for real-time KPI reporting
-- Performed ETL, validation, cleansing, and transformation on large-scale enterprise datasets
-- Gathered requirements directly from business stakeholders and translated them into scalable solutions
-
-`Python` `ETL` `AI Agents` `REST APIs` `Power BI` `Cloud Pipelines`
-
-<br/>
-
-### **Junior Software Developer & Consultant (Werkstudent)** · Heraeus
-📍 Hanau, Germany · `09/2023 – 08/2024`
-
-Delivered internal tooling and automation for a global technology group.
-
-- Developed data collection and reporting tools with Microsoft Power Platform
-- Built automated workflows reducing manual data handling across HR and operations
-- Gathered stakeholder requirements and supported end-user onboarding and training
-
-`Power Platform` `Process Automation` `Stakeholder Management`
-
-<br/>
-
-### **Software Engineer & Consultant** · Tata Consultancy Services
-📍 Pune, India · `01/2020 – 09/2022`
-
-Enterprise software development and cloud operations for global clients including Nielsen.
-
-- Developed enterprise-grade solutions in **Java, Python, and SQL**, improving pipeline efficiency and reliability
-- Monitored AWS infrastructure (CloudWatch, S3) and processed event-driven messages via **SQS**
-- Designed automated data retrieval workflows using CentOS cronjobs and WinSCP
-- Delivered projects in Agile environments with end-to-end ownership
-
-`Java` `Python` `SQL` `AWS` `Agile/Scrum`
-
----
-
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 
 ## 🏆 Achievements
@@ -232,26 +186,6 @@ Enterprise software development and cloud operations for global clients includin
 
 ---
 
-<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
-
-## 📜 Certifications
-
-<div align="center">
-
-### Microsoft
-<img src="https://img.shields.io/badge/PL--300%20Power%20BI%20Data%20Analyst%20Associate-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" alt="PL-300"/>
-
-### Databricks
-<img src="https://img.shields.io/badge/Databricks%20Fundamentals-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-
-### Docker
-<img src="https://img.shields.io/badge/Docker%20Foundation%20Professional%20Certificate-8B5CF6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-</div>
-
----
-
-
 <!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -269,18 +203,6 @@ Enterprise software development and cloud operations for global clients includin
 
 ---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratikdesai189&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
-
-</div>
-
----
-
 <!-- ═══════════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════════ -->
 
 ## 📈 Contribution Activity
@@ -293,21 +215,6 @@ Enterprise software development and cloud operations for global clients includin
 
 ---
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</picture>
-
-</div>
-
----
 
 <!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
 
