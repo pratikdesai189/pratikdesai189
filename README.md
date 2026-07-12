@@ -15,15 +15,15 @@
 <br/><br/>
 
 <a href="https://web-production-d1839.up.railway.app/docs"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/pratikdesai189"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:pratikdesai189@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pratikdesai189"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB?style=flat-square&color=4F46E5&labelColor=1a1b27&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Stars" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=pratikdesai189&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/pratikdesai189?style=flat-square&color=4F46E5&labelColor=1a1b27&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/pratikdesai189?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Stars" alt="Stars"/>
 
 </div>
 
@@ -251,20 +251,6 @@ Enterprise software development and cloud operations for global clients includin
 
 ---
 
-<!-- ═══════════════════════════ CODING PROFILES ═══════════════════════════ -->
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-
-</div>
-
----
 
 <!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
 
@@ -272,12 +258,12 @@ Enterprise software development and cloud operations for global clients includin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="165" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikdesai189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdesai189&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="165" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdesai189&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -289,7 +275,7 @@ Enterprise software development and cloud operations for global clients includin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratikdesai189&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
@@ -301,7 +287,7 @@ Enterprise software development and cloud operations for global clients includin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=7C3AED&point=A78BFA" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikdesai189&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=7C3AED&point=A78BFA" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -314,9 +300,9 @@ Enterprise software development and cloud operations for global clients includin
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </picture>
 
 </div>
@@ -359,7 +345,7 @@ open_to:
 <br/>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/>
-<a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/pratikdesai189"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/>
 <a href="https://web-production-d1839.up.railway.app/docs"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
