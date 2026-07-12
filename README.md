@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://web-production-d1839.up.railway.app/docs"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/pratikdesai189"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:pratikdesai189@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/pratikdesai189"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
@@ -168,6 +168,52 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 
 ---
 
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+
+## 💼 Experience
+
+### **Developer Automation Engineer (Intern)** · Deutsche Börse Group
+📍 Eschborn, Germany · `05/2025 – Present`
+
+Building digital automation and AI solutions for financial operations in one of the world's leading market infrastructure providers.
+
+- Designed Python-based automation reducing manual data-processing effort by **70%**
+- Developed an autonomous AI agent (SharePoint + Jira, REST/JSON) cutting documentation effort by **80%**
+- Built cloud data pipelines integrating multiple financial data sources for real-time KPI reporting
+- Performed ETL, validation, cleansing, and transformation on large-scale enterprise datasets
+- Gathered requirements directly from business stakeholders and translated them into scalable solutions
+
+`Python` `ETL` `AI Agents` `REST APIs` `Power BI` `Cloud Pipelines`
+
+<br/>
+
+### **Junior Software Developer & Consultant (Werkstudent)** · Heraeus
+📍 Hanau, Germany · `09/2023 – 08/2024`
+
+Delivered internal tooling and automation for a global technology group.
+
+- Developed data collection and reporting tools with Microsoft Power Platform
+- Built automated workflows reducing manual data handling across HR and operations
+- Gathered stakeholder requirements and supported end-user onboarding and training
+
+`Power Platform` `Process Automation` `Stakeholder Management`
+
+<br/>
+
+### **Software Engineer & Consultant** · Tata Consultancy Services
+📍 Pune, India · `01/2020 – 09/2022`
+
+Enterprise software development and cloud operations for global clients including Nielsen.
+
+- Developed enterprise-grade solutions in **Java, Python, and SQL**, improving pipeline efficiency and reliability
+- Monitored AWS infrastructure (CloudWatch, S3) and processed event-driven messages via **SQS**
+- Designed automated data retrieval workflows using CentOS cronjobs and WinSCP
+- Delivered projects in Agile environments with end-to-end ownership
+
+`Java` `Python` `SQL` `AWS` `Agile/Scrum`
+
+---
+
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 
 ## 🏆 Achievements
@@ -186,6 +232,40 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 
 ---
 
+<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+
+## 📜 Certifications
+
+<div align="center">
+
+### Microsoft
+<img src="https://img.shields.io/badge/PL--300%20Power%20BI%20Data%20Analyst%20Associate-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" alt="PL-300"/>
+
+### Databricks
+<img src="https://img.shields.io/badge/Databricks%20Fundamentals-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+
+### Docker
+<img src="https://img.shields.io/badge/Docker%20Foundation%20Professional%20Certificate-8B5CF6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ CODING PROFILES ═══════════════════════════ -->
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+
+</div>
+
+---
+
 <!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -193,11 +273,23 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratikdesai189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdesai189&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="165" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=pratikdesai189&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="165" alt="Streak"/>
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdesai189&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" height="165" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratikdesai189&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
@@ -215,6 +307,21 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 
 ---
 
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/pratikdesai189/pratikdesai189/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</picture>
+
+</div>
+
+---
 
 <!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
 
