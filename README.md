@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/M.Eng.-Information%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="M.Eng."/>
+<img src="https://img.shields.io/badge/Masters.-Information%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="M.Eng."/>
 <img src="https://img.shields.io/badge/Frankfurt%20University-of%20Applied%20Sciences-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="Frankfurt UAS"/>
 <img src="https://img.shields.io/badge/📍-Frankfurt%2C%20Germany-6366F1?style=for-the-badge" alt="Location"/>
 
@@ -174,28 +174,15 @@ Integrated SharePoint and Jira through REST APIs to autonomously capture, struct
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikdesai189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+
 <img src="https://streak-stats.demolab.com/?user=pratikdesai189&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="165" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdesai189&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" height="165" alt="Top Languages"/>
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratikdesai189&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════════ -->
 
